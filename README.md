@@ -1,4 +1,4 @@
-# Dos Toys :pig:
+# C Toys :pig:
 My Program Design Homework (2021.3-2021.6) 
 ### 致谢
 感谢陈建海老师和他的助教荣大中\
